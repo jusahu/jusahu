@@ -1,6 +1,6 @@
 ### Hi there, welcome to my Github! My name is Julio 👋
 
-I'm a Big Data Analyticts student, who is an industrial ingenieer with a passion for technology and management.
+I'm a Big Data Analytics student, who is an industrial ingenieer with a passion for technology and management.
 
 A couple of facts about me:
 
