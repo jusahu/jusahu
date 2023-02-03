@@ -1,10 +1,10 @@
 ### Hi there, welcome to my Github! My name is Julio 👋
 
-I'm a Big Data Anylicts student, who is an industrial ingenieer with a passion for technology and management.
+I'm a Big Data Analyticts student, who is an industrial ingenieer with a passion for technology and management.
 
 A couple of facts about me:
 
-- 🔭 I’m currently studing for a master's degree in Big Data Analytics at [EDEM](https://edem.eu/master-big-data-analytics/).
+- 🔭 I’m currently studing a master's degree in Big Data Analytics at [EDEM](https://edem.eu/master-big-data-analytics/).
 - 🌱 I’m currently learning Python, Docker, SQL, Apache Kafka, Apache Spark, Apache Beam, NiFi, Cassandra, GCP (Google Cloud Platform), Azure, etc.
 - 👯 I’m looking to start my journey into the world of data engineering.
 - ⚡ Fun fact: I'm passionate about [Levante UD](http://www.levanteud.com), and in my spare time I take a course in R language for soccer analysts.
